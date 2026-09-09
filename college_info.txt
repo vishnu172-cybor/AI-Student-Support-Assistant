@@ -1,0 +1,102 @@
+COLLEGE INFORMATION
+
+1. COLLEGE OVERVIEW
+College Name: Sample Engineering College
+Location: Tamil Nadu
+Type: Engineering College
+
+2. DEPARTMENTS
+- Information Technology
+- Computer Science and Engineering
+- Electronics and Communication Engineering
+- Electrical and Electronics Engineering
+- Mechanical Engineering
+- Civil Engineering
+
+3. INFORMATION TECHNOLOGY DEPARTMENT
+The Information Technology department focuses on programming,
+software development, databases, networking, web technologies,
+cloud computing, and computer systems.
+
+4. SEMESTER 3 SUBJECTS
+- Data Structures
+- Object Oriented Programming
+- Database Management Systems
+- Computer Organization
+- Discrete Mathematics
+- Web Technology
+
+5. DATA STRUCTURES
+Topics:
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+
+6. OBJECT ORIENTED PROGRAMMING
+Topics:
+- Classes
+- Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Encapsulation
+
+7. DATABASE MANAGEMENT SYSTEMS
+Topics:
+- SQL
+- Tables
+- Primary Keys
+- Foreign Keys
+- Relationships
+- Normalization
+
+8. COMPUTER ORGANIZATION
+Topics:
+- CPU
+- Memory
+- Registers
+- Instruction Sets
+- Cache Memory
+- Pipelining
+
+9. DISCRETE MATHEMATICS
+Topics:
+- Logic
+- Sets
+- Relations
+- Functions
+- Graphs
+- Mathematical Reasoning
+
+10. WEB TECHNOLOGY
+Topics:
+- HTML
+- CSS
+- JavaScript
+- HTTP
+- DOM
+- Web Basics
+
+11. EXAMINATION INFORMATION
+Students should check official college announcements
+and department notices for examination dates and instructions.
+
+12. ASSIGNMENTS
+Students should check announcements from faculty members
+and the department for assignment information.
+
+13. FACULTY SUPPORT
+Students with subject-related questions can contact
+the concerned faculty member or department.
+
+14. STUDENT SUPPORT
+Students can use the assistant to ask about subjects,
+topics, examinations, assignments, and basic academic guidance.
+
+IMPORTANT:
+This is sample information for project demonstration.
+Students should verify important information with official
+college sources.

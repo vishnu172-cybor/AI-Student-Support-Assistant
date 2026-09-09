@@ -1,0 +1,50 @@
+College Student Support FAQ
+
+Q: What subjects are offered in Semester 3?
+A: Semester 3 includes Data Structures, Object Oriented Programming,
+Database Management Systems, Computer Organization,
+Discrete Mathematics, and Web Technology.
+
+Q: What is covered in Data Structures?
+A: Data Structures covers arrays, linked lists, stacks, queues,
+trees, and graphs.
+
+Q: What is covered in Object Oriented Programming?
+A: It covers classes, objects, constructors, inheritance,
+polymorphism, and encapsulation.
+
+Q: What is covered in Database Management Systems?
+A: It covers SQL, tables, keys, relationships, and normalization.
+
+Q: What is covered in Computer Organization?
+A: It covers CPU, memory, registers, instruction sets,
+cache memory, and pipelining.
+
+Q: What is covered in Discrete Mathematics?
+A: It covers logic, sets, relations, functions, graphs,
+and mathematical reasoning.
+
+Q: What is covered in Web Technology?
+A: It covers HTML, CSS, JavaScript, HTTP, DOM,
+and basic web concepts.
+
+Q: Where can students get examination information?
+A: Students should check official college announcements
+and department notices for examination dates and instructions.
+
+Q: Where can students get assignment information?
+A: Students should check announcements from faculty members
+and the department.
+
+Q: What should a student do if they have a subject question?
+A: Students can contact the concerned faculty member
+or department.
+
+Q: Is the information provided by this assistant official?
+A: No. This project uses sample information for demonstration.
+Students should verify important information with official
+college sources.
+
+Q: What can the AI Student Support Assistant help with?
+A: It can answer questions about subjects, academic topics,
+examinations, assignments, and basic student support information.
