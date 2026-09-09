@@ -98,7 +98,18 @@ HOW TO USE
 PROJECT STRUCTURE 
 
 ’’’text
- AI-Student-Support-Assistant/.              │                                           ├── main.py                                ├── agent.py                               ├── rag.py                                 ├── memory.py                              ├── tools.py                               ├── requirements.txt                       ├── documents/   (create new folder)       │   ├── college_info.txt                   |   └── college_faq.txt                    └── memory.json  (no need to create                          manually)
+ AI-Student-Support-Assistant/.             
+ │                                          
+ ├── main.py                               
+ ├── agent.py                              
+ ├── rag.py                                
+ ├── memory.py                             
+ ├── tools.py                              
+ ├── requirements.txt                      
+ ├── documents/   (create new folder)      
+ │   ├── college_info.txt                  
+ |   └── college_faq.txt                   
+ └── memory.json  (no need to create                          manually)
 ’’’
 
 IMPORTANT NOTE 
