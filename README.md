@@ -97,6 +97,7 @@ HOW TO USE
 
 PROJECT STRUCTURE 
 
+'''text
    AI-Student-Support-Assistant/
    │
    ├── main.py
@@ -111,6 +112,7 @@ PROJECT STRUCTURE
    │   └── college_faq.txt
    │
    └── memory.json
+'''
 
 IMPORTANT NOTE 
 
