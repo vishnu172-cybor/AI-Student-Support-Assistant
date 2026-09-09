@@ -108,7 +108,7 @@ PROJECT STRUCTURE
  ├── requirements.txt                      
  ├── documents/   (create new folder)      
  │   ├── college_info.txt                  
- |   └── college_faq.txt                  
+  |   └── college_faq.txt                  
  └── memory.json  (no need to create                          manually)
 ’’’
 
