@@ -98,7 +98,7 @@ HOW TO USE
 PROJECT STRUCTURE 
 
 ’’’text
- AI-Student-Support-Assistant/.             
+ AI-Student-Support-Assistant/              
  │                                          
  ├── main.py                               
  ├── agent.py                              
