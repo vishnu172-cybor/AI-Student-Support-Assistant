@@ -24,6 +24,7 @@ FEATURES
 REQUIREMENTS
 
    Before running the project, install:
+
       1.Python 3.10 or later
 
       2.Ollama
